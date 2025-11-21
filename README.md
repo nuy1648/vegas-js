@@ -1,2 +1,2 @@
 # vegas-js
-tea project
+tea project testnet
